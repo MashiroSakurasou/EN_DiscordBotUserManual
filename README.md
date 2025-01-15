@@ -26,5 +26,30 @@ Click the link below to invite the bot to your server:
 > - **Connection Issues**: Ensure the bot has joined the voice channel correctly, and that your server permissions allow the bot to play audio, or commands may not function properly.  
 > - **Copyright Issues**: Make sure the content you play complies with relevant copyright laws to avoid potential infringement.
 
+
+markdown
+复制代码
+## 🎨 Features and Customization
+
+The `/info` command is a default feature available on every server.
+
+<img src="InfoExample.png" alt="Customizable Features" width="400">  
+
+In addition, the bot supports various customizable features to meet your personalized needs.
+
+For customization requests, please join our [Official Discord Server](https://discord.gg/67vMVwTNuG) and contact 椎名ましろ (shiina.mashiro.) to discuss your requirements.
+
+Below are some examples:
+
+1. Welcome Messages  
+2. Music Request Interface  
+3. Server Rules  
+4. Member Logs  
+
+<img src="WelcomeExample.png" alt="Customizable Features" height="400" width="400"> 
+<img src="MusicExample.png" alt="Customizable Features" height="400" width="400"> 
+<img src="RuleExample.png" alt="Customizable Features" height="400" width="400"> 
+<img src="LogExample.png" alt="Customizable Features" height="400" width="400">
+
 ## 💬 **Bug Reports and Suggestions**  
 We highly value your feedback! Please join our [official Discord server](https://discord.gg/67vMVwTNuG) and send a direct message to **Shiina Mashiro (shiina.mashiro.)** to report any issues or provide suggestions.  
