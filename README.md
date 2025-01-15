@@ -27,8 +27,6 @@ Click the link below to invite the bot to your server:
 > - **Copyright Issues**: Make sure the content you play complies with relevant copyright laws to avoid potential infringement.
 
 
-markdown
-复制代码
 ## 🎨 Features and Customization
 
 The `/info` command is a default feature available on every server.
@@ -41,15 +39,10 @@ For customization requests, please join our [Official Discord Server](https://di
 
 Below are some examples:
 
-1. Welcome Messages  
-2. Music Request Interface  
-3. Server Rules  
-4. Member Logs  
+1. Welcome Messages  2. Music Request Interface  3. Server Rules  4. Member Logs  
 
-<img src="WelcomeExample.png" alt="Customizable Features" height="400" width="400"> 
-<img src="MusicExample.png" alt="Customizable Features" height="400" width="400"> 
-<img src="RuleExample.png" alt="Customizable Features" height="400" width="400"> 
-<img src="LogExample.png" alt="Customizable Features" height="400" width="400">
+<img src="WelcomeExample.png" alt="Customizable Features" height="400" width="400"> <img src="MusicExample.png" alt="Customizable Features" height="400" width="400"> 
+<img src="RuleExample.png" alt="Customizable Features" height="400" width="400"> <img src="LogExample.png" alt="Customizable Features" height="400" width="400">
 
 ## 💬 **Bug Reports and Suggestions**  
 We highly value your feedback! Please join our [official Discord server](https://discord.gg/67vMVwTNuG) and send a direct message to **Shiina Mashiro (shiina.mashiro.)** to report any issues or provide suggestions.  
