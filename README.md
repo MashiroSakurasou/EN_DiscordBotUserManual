@@ -1,5 +1,5 @@
 > [!TIP]  
-> For user manual in Chinese, click [中文版使用指南](https://github.com/MashiroSakurasou/CN_DiscordBotUserManual). 
+> For user manual in Chinese, click [中文版使用指南](https://github.com/MashiroSakurasou/CN_DiscordBotUserManual).
 
 # Discord Bot Ogiwara Sayu User Manual 🌟  
 Hello! Ogiwara Sayu is feature-rich and customizable **Discord bot for music and moderation.**  
