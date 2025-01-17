@@ -12,16 +12,15 @@ Click the link below to invite the bot to your server:
 ### Command Overview
 | Command            | Description                                                                                 |
 |--------------------|---------------------------------------------------------------------------------------------|
-| /play + Name/Link  | Play an audio source. Supports name search or links (e.g., YouTube, SoundCloud).            |
-| /skip              | Skip the currently playing audio source.                                                   |
-| /info              | View detailed information about the server and the bot.                                     |
-| /repeat         | Toggle single-track looping: the first input enables repeat mode, and input again while repeat is on to disable it. |
+| `/play` + Name/Link  | Play an audio source. Supports name search or links (e.g., YouTube, SoundCloud).            |
+| `/skip`              | Skip the currently playing audio source.                                                   |
+| `/info`              | View detailed information about the server and the bot.                                     |
+| `/repeat`         | Toggle single-track looping: the first input enables repeat mode, and input again while repeat is on to disable it. |
 
 > [!TIP]
-> The bot will search for the audio name you entered on YouTube and play the first search result.
-> - If the audio is not what you intended, try using more specific keywords (e.g., artist name or album title).
-> 
-> /skip command turns off repeat mode automatically.
+> - The bot will search for the audio name you entered on YouTube and play the first search result.
+>   - If the audio is not what you intended, try using more specific keywords (e.g., artist name or album title).
+> - `/skip` command turns off repeat mode automatically.
 
 > [!NOTE]
 > - **Platform Support Limitations**: Currently, only links from the following platforms are supported: **YouTube**, **SoundCloud**, **Bandcamp**, **Vimeo**, and **Twitch Streams**. Links from other platforms may not work.  
