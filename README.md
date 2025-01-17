@@ -20,6 +20,7 @@ Click the link below to invite the bot to your server:
 > [!TIP]
 > The bot will search for the audio name you entered on YouTube and play the first search result.
 > - If the audio is not what you intended, try using more specific keywords (e.g., artist name or album title).
+> /skip command turns off repeat mode automatically.
 
 > [!NOTE]
 > - **Platform Support Limitations**: Currently, only links from the following platforms are supported: **YouTube**, **SoundCloud**, **Bandcamp**, **Vimeo**, and **Twitch Streams**. Links from other platforms may not work.  
