@@ -15,6 +15,7 @@ Click the link below to invite the bot to your server:
 | /play + Name/Link  | Play an audio source. Supports name search or links (e.g., YouTube, SoundCloud).            |
 | /skip              | Skip the currently playing audio source.                                                   |
 | /info              | View detailed information about the server and the bot.                                     |
+| /repeat         | Toggle single-track looping: the first input enables repeat mode, and input again while repeat is on to disable it. |
 
 > [!TIP]
 > The bot will search for the audio name you entered on YouTube and play the first search result.
